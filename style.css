@@ -1,17 +1,6 @@
-* {
-    box-sizing: border-box;
-    font-size: 16px;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-.home-list {
-    display: inline;
-}
-
-.home-list-div {
-    margin: 10px;
-}
-
 h1 {
     text-align: center;
+}
+.card { 
+    display: inline-block;
 }
