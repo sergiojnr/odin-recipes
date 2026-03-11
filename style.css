@@ -1,6 +1,25 @@
+* {
+    background-color: bisque;
+}
+
 h1 {
     text-align: center;
 }
+
+.card, .contend, .buttom {
+    background-color: burlywood;
+
+}
+
 .card { 
+
+    box-sizing: border-box;
     display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid blue;  
+}
+
+.center {
+    text-align: center;
 }
