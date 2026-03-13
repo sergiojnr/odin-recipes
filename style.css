@@ -1,19 +1,23 @@
 * {
     background-color: bisque;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    margin: 0 auto;
+    text-align:center;
+    /* width: 630px; */
 }
 
 h1 {
-    text-align: center;
+    /* width: 980px; */
 }
 
 .card, .contend, .buttom {
     background-color: burlywood;
-
 }
 
 .card { 
-
-    box-sizing: border-box;
     display: inline-block;
     margin: 5px;
     padding: 10px;
@@ -22,4 +26,14 @@ h1 {
 
 .center {
     text-align: center;
+    /* width: 980px; */
+    
+}
+
+.image {
+    padding: 0px;    
+}
+
+img {
+    width: 200px;
 }
